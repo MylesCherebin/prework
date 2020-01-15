@@ -4,7 +4,7 @@
 This app allows the user to enter text and have it appear in the text window. The text color and background color can change. All settings return to default when the background is clicked.
 
 ### App Walk-though
-<img src="https://recordit.co/ntayXWni3S" width=200><br>
+<img src="http://g.recordit.co/ntayXWni3S.gif" width=200><br>
 
 
 ### Required User Stories
