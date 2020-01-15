@@ -4,9 +4,7 @@
 This app allows the user to enter text and have it appear in the text window. The text color and background color can change. All settings return to default when the background is clicked.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://recordit.co/ntayXWni3S" width=200><br>
 
 
 ### Required User Stories
